@@ -1,6 +1,6 @@
 const path= require('path');
 const express=require('express');
-const { dirname } = require('path');
+const path = require('path');
 const router = express.Router();
 
 
