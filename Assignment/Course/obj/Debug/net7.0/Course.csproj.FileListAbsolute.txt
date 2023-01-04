@@ -1,0 +1,12 @@
+D:\.Net\Assignment\Course\bin\Debug\net7.0\Course.deps.json
+D:\.Net\Assignment\Course\bin\Debug\net7.0\Course.dll
+D:\.Net\Assignment\Course\bin\Debug\net7.0\Course.pdb
+D:\.Net\Assignment\Course\obj\Debug\net7.0\Course.csproj.AssemblyReference.cache
+D:\.Net\Assignment\Course\obj\Debug\net7.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Assignment\Course\obj\Debug\net7.0\Course.AssemblyInfoInputs.cache
+D:\.Net\Assignment\Course\obj\Debug\net7.0\Course.AssemblyInfo.cs
+D:\.Net\Assignment\Course\obj\Debug\net7.0\Course.csproj.CoreCompileInputs.cache
+D:\.Net\Assignment\Course\obj\Debug\net7.0\Course.dll
+D:\.Net\Assignment\Course\obj\Debug\net7.0\refint\Course.dll
+D:\.Net\Assignment\Course\obj\Debug\net7.0\Course.pdb
+D:\.Net\Assignment\Course\obj\Debug\net7.0\ref\Course.dll
